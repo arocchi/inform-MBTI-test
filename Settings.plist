@@ -17,7 +17,7 @@
 		<key>IFSettingCreateBlorb</key>
 		<true/>
 		<key>IFSettingZCodeVersion</key>
-		<integer>8</integer>
+		<integer>256</integer>
 	</dict>
 </dict>
 </plist>

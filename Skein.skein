@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Skein rootNode="node-0x14b4700" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x2c12720" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Inform 7</generator>
-  <activeNode nodeId="node-0x14b4700"/>
-  <item nodeId="node-0x14b4700">
+  <activeNode nodeId="node-0x2c12720"/>
+  <item nodeId="node-0x2c12720">
     <command xml:space="preserve">- start -</command>
-    <result xml:space="preserve">MBTI
+    <result xml:space="preserve">
+
+
+MBTI
 An Interactive Fiction by Alessio
-Release 1 / Serial number 100608 / Inform 7 build 5Z71 (I6/v6.31 lib 6/12N) SD
+Release 1 / Serial number 160405 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
 
 Box
 start test when ready by speaking to tester
@@ -20,10 +23,10 @@ You can see a tester here.
     <temporary score="0">NO</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14b4880"/>
+      <child nodeId="node-0x2c128a0"/>
     </children>
   </item>
-  <item nodeId="node-0x14b4880">
+  <item nodeId="node-0x2c128a0">
     <command xml:space="preserve">talk to tester</command>
     <result xml:space="preserve">are you introverted or extroverted?
 
@@ -32,15 +35,15 @@ You can see a tester here.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14b4a00"/>
+      <child nodeId="node-0x2c12a20"/>
     </children>
   </item>
-  <item nodeId="node-0x14b4a00">
+  <item nodeId="node-0x2c12a20">
     <command xml:space="preserve">2</command>
     <result xml:space="preserve">do you rely on sensing or intuition?
 
@@ -49,15 +52,15 @@ You can see a tester here.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14b4b80"/>
+      <child nodeId="node-0x2c12ba0"/>
     </children>
   </item>
-  <item nodeId="node-0x14b4b80">
+  <item nodeId="node-0x2c12ba0">
     <command xml:space="preserve">1</command>
     <result xml:space="preserve">do you think or feel?
 
@@ -66,15 +69,15 @@ You can see a tester here.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14b4d00"/>
+      <child nodeId="node-0x2c12d20"/>
     </children>
   </item>
-  <item nodeId="node-0x14b4d00">
+  <item nodeId="node-0x2c12d20">
     <command xml:space="preserve">2</command>
     <result xml:space="preserve">do you perceive or judge?
 
@@ -83,22 +86,22 @@ You can see a tester here.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x14b4e80"/>
+      <child nodeId="node-0x2c12ea0"/>
     </children>
   </item>
-  <item nodeId="node-0x14b4e80">
+  <item nodeId="node-0x2c12ea0">
     <command xml:space="preserve">1</command>
     <result xml:space="preserve">let&apos;s see...
 
 you are ESFP
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
